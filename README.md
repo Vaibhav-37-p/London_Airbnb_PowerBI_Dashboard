@@ -38,7 +38,7 @@ This dashboard provides an overview of Airbnb listing activity across London.
 
 ### Business Performance Dashboard
 
-![Business Performance Dashboard](screenshots/Business_Performance.png)
+![Business Performance Dashboard](Business_Performance.png)
 
 ## Dashboard 2: Pricing & Availability
 
@@ -59,7 +59,7 @@ This dashboard examines accommodation prices, minimum stay requirements and list
 
 ### Pricing & Availability Dashboard
 
-![Pricing & Availability Dashboard](screenshots/Pricing_Availability.png)
+![Pricing & Availability Dashboard](Pricing_Availability.png)
 
 ## Key Insights
 
